@@ -39,7 +39,7 @@
 <td>База:<br> 2,657 <br><br>Джоб:<br> 1,412</td>
 <td>Бесформенный<br> Ветер<br> Средний</td>
 <td><img src="./Loot/Leaf_on_head.png" /><br>Leaf On Head [1] Blueprint<br><br><img src="./Loot/Chem_gas.png" /><br> Chemical Gas Cylinder</td>
-<td><img src="./Cards/Breeze_card.jpg" /><br><strong>Оружие</strong> <br><br><strong>Эффект:</strong>  АТК +20. При атаке есть 5% шанс нанести [Bleed] на 3 секунды. [Эффект карт не складывается.] <br><strong>Депозит</strong>**:**  Макс ХП +72<strong>Получение****:</strong>  МАТК +8</td>
+<td><img src="./Cards/Breeze_card.jpg" /><br><strong>Оружие</strong> <br><br><strong>Эффект:</strong>  АТК +20. При атаке есть 5% шанс нанести [Bleed] на 3 секунды. [Эффект карт не складывается.] <br><strong>Депозит</strong>:  Макс ХП +72<strong>Получение:</strong>  МАТК +8</td>
 </tr>
 <tr>
 <td>
