@@ -26,7 +26,7 @@
   (Ур 125)
   </td>
 <td>База:<br> 2,379<br><br><br><br>Джоб:<br> 1,527</td>
-<td>Бесформенный, Нейтрал, Маленький</td>
+<td>Бесформенный<br> Нейтрал<br> Маленький</td>
 <td>Metal Mask Blueprint</td>
 <td><strong>Оружие</strong> <strong>Эффект:</strong>  АТК +20. При нанесении физического урона есть 5% шанс использовать Lv 1 [Strip  Accessory]. [Эффект карт не складывается.] <strong>Депозит:</strong>  МАТК+3, Макс ХП +36 <strong>Получение:</strong>  Макс ХП +60</td>
 </tr>
@@ -37,7 +37,7 @@
   (Ур 127)
   </td>
 <td>База:<br> 2,657 <br><br>Джоб:<br> 1,412</td>
-<td>Бесформенный, Ветер, Средний</td>
+<td>Бесформенный<br> Ветер<br> Средний</td>
 <td>Leaf On Head [1] Blueprint, Chemical Gas Cylinder</td>
 <td><strong>Оружие</strong> <strong>Эффект:</strong>  АТК +20. При атаке есть 5% шанс нанести [Bleed] на 3 секунды. [Эффект карт не складывается.] <strong>Депозит</strong>**:**  Макс ХП +72<strong>Получение****:</strong>  МАТК +8</td>
 </tr>
@@ -48,7 +48,7 @@
   (Ур 129)
   </td>
 <td>База:<br> 2,657 <br><br>Джоб:<br> 1,458</td>
-<td>Брут Земля Маленький</td>
+<td>Брут<br> Земля<br> Маленький</td>
 <td>Chemical Gas Cylinder, Laser Glasses Blueprint</td>
 <td><strong>Оружие</strong> <strong>Эффект:</strong>  АТК +20. При нанесении физического урона есть 5% шанс использовать Lv 1 [Strip  Accessory]. [Эффект карт не складывается.] <strong>Вторая рука</strong> <strong>Эффект:</strong>  Урон [Storm  Gust] увеличен на 5%  <strong>Депозит:</strong>  Макс ХП +36 <strong>Получение:</strong>  АТК +3</td>
 </tr>
@@ -83,7 +83,7 @@
   (Ур 131)
   </td>
 <td>База:2,623 <br><br>Джоб:<br> 1,524</td>
-<td>Получеловек, Огонь, Средний</td>
+<td>Получеловек<br> Огонь<br> Средний</td>
 <td>Swordsman Mask Blueprint</td>
 <td><strong>Броня</strong> <strong>Эффект:</strong>  Игрок получает 1 INT  за каждые 10 единиц STR <strong>Депозит:</strong>  Макс ХП +36 <strong>Получение:</strong>  МДеф +3</td>
 </tr>
@@ -94,7 +94,7 @@
   (Ур 132)
   </td>
 <td>База:<br> 2,768 <br><br>Джоб:<br> 1,463</td>
-<td>Получеловек, Земля, Средний</td>
+<td>Получеловек<br> Земля<br> Средний</td>
 <td>Merchant’s Hat [1] Blueprint</td>
 <td><strong>Аксессуар</strong> <strong>Эффект:</strong>  Увеличение шанса поломки экипировки от [Acid  Terror], [Demonstration] и [Acid  Demonstration] на 5% [Эффект карт не складывается.] <strong>Депозит:</strong> DEF +2, Max HP +36  <strong>Получение:</strong> ATK +3, Max HP +36</td>
 </tr>
@@ -105,7 +105,7 @@
   (Ур 132)
   </td>
 <td>База:<br> 2,504 <br><br>Джоб:<br> 1,617</td>
-<td>Получеловек, Яд, Средний</td>
+<td>Получеловек<br> Яд<br> Средний</td>
 <td>New Poison, Semiconductor, Thief Mask Blueprint</td>
 <td><strong>Накидка</strong> <strong>Эффект:</strong>  Снижение получаемого урона от огня на 5%. Урон от [Cross  Impact] увеличен на 15% <strong>Депозит:</strong>  МДеф +2, Макс ХП+36 <strong>Получение:</strong>  АТК+3, Макс ХП +36</td>
 </tr>
@@ -116,7 +116,7 @@
   (Ур 130)
   </td>
 <td>База:<br> 2,603 <br><br>Джоб:<br> 1,513</td>
-<td>Демон, Тень, Маленький</td>
+<td>Демон<br> Тень<br> Маленький</td>
 <td>Semiconductor, Syringe Back Headwear Blueprint</td>
 <td><strong>Ботинки</strong>, <strong>Эффект:</strong>  Макс ХП +100, Макс СП +100 <strong>Депозит:</strong>  Макс ХП +36 <strong>Получение:</strong>  Деф +3</td>
 </tr>
@@ -127,7 +127,7 @@
   (Ур 126)
   </td>
 <td>База:<br> 2,643 <br><br>Джоб:<br> 1,397</td>
-<td>Нежить, Нежить, Средний</td>
+<td>Нежить<br> Нежить<br> Средний</td>
 <td>Moldy Gold Coins, Fireman’s Cap [1] Blueprint</td>
 <td><strong>Броня</strong> <strong>Эффект:</strong>  Макс ХП +200, DEX +2, VIT +2  <strong>Депозит:</strong>  Макс ХП +36  <strong>Получение:</strong>  МАТК +3</td>
 </tr>
@@ -138,7 +138,7 @@
   (Ур 136)
   </td>
 <td>База:<br> 8,160  <br><br>Джоб:<br> 4,744</td>
-<td>Получеловек, Земля, Средний</td>
+<td>Получеловек<br> Земля<br> Средний</td>
 <td>Chaotic Metal, Semiconductor, Hairpin Headwear [1] Blueprint, Chieftain’s Axe [1], General’s Manteau</td>
 <td><strong>Накидка</strong> <strong>Эффект:</strong>  Снижение получаемого урона от нейтрального элемента на 10%. Урон от [Mammonite] увеличен на 15%  <strong>Депозит:</strong>  МДеф +3, Макс ХП +36  <strong>Получение:</strong>  АТК +8</td>
 </tr>
@@ -149,7 +149,7 @@
   (Ур 138)
   </td>
 <td>База:<br> 44,309  <br><br>Джоб:<br> 22,378</td>
-<td>Получеловек, Яд, Средний</td>
+<td>Получеловек<br> Яд<br> Средний</td>
 <td>Chaotic Metal, Corrupted Pendant, Trial Night Vision Instrument Blueprint, Fire Ninja Shinobi’s Belt, Spirit Cleansing Dagger[1]</td>
 <td><strong>Броня</strong> <strong>Эффект:</strong>  Макс ХП +10%. При получении физического урона есть 100% шанс применить [Venom  Attack] 1 Уроня. <strong>Депозит:</strong>  Макс ХП +112  <strong>Получение:</strong>  Деф +1%, МДеф +1%</td>
 </tr>
@@ -178,7 +178,7 @@
   (Ур 131)
   </td>
 <td>База:<br> 2,623 <br><br>Джоб:<br> 1,524</td>
-<td>Получеловек, Ветер, Средний</td>
+<td>Получеловек<br> Ветер<br> Средний</td>
 <td>Semiconductor, Archer’s Hat [1] Blueprint</td>
 <td><strong>Накидка</strong> <strong>Эффект:</strong>  Снижение урона от огня на 10%. Урон от [Arrow  Shower] [Severe  Rainstorm] увеличен на +10%  <strong>Депозит:</strong>  Макс ХП +72  <strong>Получение:</strong>  АТК +8</td>
 </tr>
@@ -189,7 +189,7 @@
   (Ур 131)
   </td>
 <td>База:<br> 2,389 <br><br>Джоб:<br> 1,661</td>
-<td>Получеловек, Призрак, Средний</td>
+<td>Получеловек<br> Призрак<br> Средний</td>
 <td>Chemical Gas Cylinder, Mage’s Garland [1] Blueprint</td>
 <td><strong>Оружие</strong> <strong>Эффект:</strong>  МАТК +20. Шанс применить [Auto  Bolt] увеличен на 3%. [Эффект карт не складывается.]  <strong>Депозит:</strong> АТК+3, Макс ХП+36  <strong>Получение:</strong> Макс ХП +60</td>
 </tr>
@@ -200,7 +200,7 @@
   (Ур 132)
   </td>
 <td>База:<br> 2,595 <br><br>Джоб:<br> 1,564</td>
-<td>Получеловек, Святой. Средний</td>
+<td>Получеловек<br> Святой<br> Средний</td>
 <td>Chemical Gas Cylinder,  Acolyte Silver Ring [1] Blueprint</td>
 <td><strong>Накидка</strong> <strong>Эффект:</strong>  При получении дистанционного урона есть 5% шанс применить [Kyrie  Eleison] 1 Уровня.  <strong>Депозит:</strong>  Макс ХП +36  <strong>Получение:</strong>  Деф +3</td>
 </tr>
@@ -211,7 +211,7 @@
   (Ур 128)
   </td>
 <td>База:<br> 2,501 <br><br>Джоб:<br> 1,526</td>
-<td>Бурт, Нейтрал, Большой</td>
+<td>Бурт<br> Нейтрал<br> Большой</td>
 <td>Mechanical Tail Blueprint</td>
 <td><strong>Оружие</strong> <strong>Эффект:</strong>  Урон от [Arms  Cannon] увеличен на 5%. Если заточка оружия +10 и выше, то урон от [Arms  Cannon] увеличен ещё на 5% [Эффект карт не складывается.]  <strong>Депозит:</strong>  МАТК +3, Макс ХП +36  <strong>Получение:</strong> Макс ХП +60</td>
 </tr>
@@ -222,7 +222,7 @@
   (Ур 136)
   </td>
 <td>База:<br> 43,871 <br><br>Джоб:<br> 21,935</td>
-<td>Получеловек, Призрак, Средний</td>
+<td>Получеловек<br> Призрак<br> Средний</td>
 <td>Chemical Gas Cylinder, Wicked Heart, Lace Butterfly Hairband [1] Blueprint, Pocket Watch, Critical Ring</td>
 <td><strong>Голова</strong> <strong>Эффект:</strong>  М. Проникновение +8%, Переменный КТ +5%, Восстановление СП +10%  <strong>Депозит:</strong>  Игнор МДеф +2% <strong>Получение:</strong>  АТК+12</td>
 </tr>
@@ -248,7 +248,7 @@
   (Ур 137)
   </td>
 <td>База:<br> 48,696 <br><br>Джоб:<br> 19,479</td>
-<td>Получеловек, Ветер, Средний</td>
+<td>Получеловек<br> Ветер<br> Средний</td>
 <td>Semiconductor, Warrior’s Will, Corrupted Pendant, Wind Follower [1] Blueprint, Sniper’s Manteau, Dragon Wing [1]</td>
 <td><strong>Оружие</strong> <strong>Эффект:</strong>  Крит +5, Восстановление ХП -100%. При нанесении дистанционного урона есть 30% шанс восстановить жизнь в размере 20% от нанесённого урона [Эффект карт не складывается.] <strong>Депозит:</strong>  Крит +1, Критический урон +1% <strong>Получение:</strong> МАТК +12</td>
 </tr>
@@ -274,7 +274,7 @@
   (Ур 135)
   </td>
 <td>База:<br> 17,820 <br><br>Джоб:<br> 10,360</td>
-<td>Получеловек, Огонь, Средний</td>
+<td>Получеловек<br> Огонь<br> Средний</td>
 <td>Warrior’s Will, Broken Sword Back Headwear Blueprint, Mysteltainn [1], Giant Shield</td>
 <td><strong>Вторая рука</strong> <strong>Эффект:</strong>  Макс ХП +5%. Снижение физического урона +5%  <strong>Депозит:</strong>  Деф +3, Макс ХП +36  <strong>Получение:</strong>  МАТК+8</td>
 </tr>
