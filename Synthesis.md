@@ -1,8 +1,3 @@
----
-
-
----
-
 <h2 id="img-src.synth_fintyran.png--tyrannical-armor"><img src="./synth_fin/tyran.png"> Tyrannical Armor</h2>
 <ul>
 <li>
